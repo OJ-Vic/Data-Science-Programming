@@ -14,7 +14,7 @@ To address these issues, a robust Python-based data processing pipeline was impl
 
   4. Deriving new metrics such as the Salary-Commute ratio, enabling performance ranking of customers based on income relative to travel distance.
 
-  5.Identifying anomalies, such as credit card records with unrealistic validity periods (greater than 10 years).
+  5. Identifying anomalies, such as credit card records with unrealistic validity periods (greater than 10 years).
 
 In addition, the second phase of the project introduces data visualisation using Pandas and Seaborn, allowing insights into customer demographics and trends. Statistical measures (e.g., mean salary, median age) are calculated, and both univariate and multivariate plots are generated to explore relationships between variables such as age, salary, commute distance, and marital status.
 
